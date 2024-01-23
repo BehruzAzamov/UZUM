@@ -1,0 +1,23 @@
+/* Styles for the header */
+header {
+  background-color: #fff;
+  color: #000;
+  padding: 10px 0;
+  text-align: center;
+}
+
+/* Styles for the navigation menu */
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;
+}
